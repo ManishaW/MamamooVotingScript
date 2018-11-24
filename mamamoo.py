@@ -131,6 +131,6 @@ with open('config.json') as json_data:
 
     driver.find_element_by_xpath('/html/body/div[1]/div[2]/div[2]/div/div[2]/section/div/button').click()
     time.sleep(1)
-    driver.save_screenshot('C:/Users/Manisha/Downloads/screenshotFBlogin.png')
+   # driver.save_screenshot('C:/Users/Manisha/Downloads/screenshotFBlogin.png')
 
 
